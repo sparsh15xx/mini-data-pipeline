@@ -2,9 +2,9 @@
 
 ## Required Submissions
 
-- **Postgres database URL**: postgresql://postgres:<your-db-password>@db.<project-id>.supabase.co:5432/postgres
+- **Postgres database URL**: [db url](postgresql://postgres:<your-db-password>@db.<project-id>.supabase.co:5432/postgres)
 
-    - Since in order to view the database you have to be a user of Supabase so here is an image showing the layout a and presence of the database.
+    - Since in order to view the database you have to be a user of Supabase so here is an image showing the layout and presence of the database.
 
     ![alt text](image.png)
 
